@@ -6,7 +6,7 @@
 
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
-		<maven.compilet.source>11</maven.compilet.source>
+		<maven.compiler.source>11</maven.compiler.source>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<exec.mainClass>dad.maven.gson.Principal</exec.mainClass>
 	</properties>
